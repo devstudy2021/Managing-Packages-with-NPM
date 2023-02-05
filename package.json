@@ -4,9 +4,9 @@
 	"description": "A project for studying the managing of packages with NPM",
 	"keywords": [ "Study", "freecodecamp", "practice!, practice!, practice!" ],
 	"license": "MIT",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"dependencies": {
-		"@freecodecamp/example": "~1.2.13",
+		"@freecodecamp/example": "^1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",

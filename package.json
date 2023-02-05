@@ -3,6 +3,7 @@
 	"author": "DevStudy2021",
 	"description": "A project for studying the managing of packages with NPM",
 	"keywords": [ "Study", "freecodecamp", "practice!, practice!, practice!" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
